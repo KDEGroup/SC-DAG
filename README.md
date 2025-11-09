@@ -1,4 +1,3 @@
-# SC-DAG
 # SC-DAG — Semantic-Constrained Diffusion Attacks for Stealthy Exposure Manipulation in Visually-Aware Recommender Systems
 
 **Formal / Academic README (English)** — suitable for the repository front page and paper supplement.
