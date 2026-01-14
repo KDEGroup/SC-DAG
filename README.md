@@ -25,9 +25,8 @@ SC-DAG/
 ├── generate.py            # Main script for adversarial image generation
 ├── configs/               # Stable Diffusion (inpainting) configuration files
 ├── SemanticMask/          # Semantic segmentation for foreground masking
-├── dataset/               # Minimal dataset interface
-├── utils/                 # Model initialization and helper functions
-├── pretrained_model/      # Placeholder for diffusion checkpoints
+├── utils.py                
+├── ldm/
 └── README.md
 ```
 
