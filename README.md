@@ -45,7 +45,7 @@ SC-DAG/
 1. **Reference image retrieval**
 
    ```bash
-   python SC-DAG/data/get_ref.py
+   python SC-DAG/get_ref.py
    ```
 
    Produces the reference image(s) used by the hybrid reference selection module.
@@ -53,7 +53,7 @@ SC-DAG/
 2. **Semantic mask generation**
 
    ```bash
-   python SC-DAG/FaceParsing/semantic.py
+   python SC-DAG/SemanticMask/semantic.py
    ```
 
    Produces binary/semantic masks (foreground vs. background) for target images.
