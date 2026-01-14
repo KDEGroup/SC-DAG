@@ -14,7 +14,7 @@ This repository provides a lightweight implementation of **SC-DAG**, a diffusion
 > *CIKM 2025*
 
 The code focuses on **generating adversarial images under semantic constraints** using a latent diffusion backbone.
-Evaluation in the paper is conducted using the **open-source AIP recommender system and its evaluation pipeline**.
+Evaluation in the paper is conducted using the **open-source AIP  and its evaluation pipeline**.
 
 ---
 
