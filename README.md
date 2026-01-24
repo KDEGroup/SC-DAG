@@ -1,14 +1,6 @@
 # SC-DAG
 
-**Semantic-Constrained Diffusion Attacks**
-
-Code release for adversarial image generation based on latent diffusion models.
-
----
-
-## Overview
-
-This repository provides a lightweight implementation of **SC-DAG**, a diffusion-based adversarial image generation method proposed in:
+This repository provides the implementation of **SC-DAG** proposed in:
 
 > **SC-DAG: Semantic-Constrained Diffusion Attacks for Stealthy Exposure Manipulation in Visually-Aware Recommender Systems**
 > *CIKM 2025*
