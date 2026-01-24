@@ -2,7 +2,7 @@
 
 This repository provides the implementation of **SC-DAG** proposed in:
 
-> **SC-DAG: Semantic-Constrained Diffusion Attacks for Stealthy Exposure Manipulation in Visually-Aware Recommender Systems**
+> **SC-DAG: Semantic-Constrained Diffusion Attacks for Stealthy Exposure Manipulation in Visually-Aware Recommender Systems**,
 > *CIKM 2025*
 
 The code focuses on **generating adversarial images under semantic constraints** using a latent diffusion backbone.
